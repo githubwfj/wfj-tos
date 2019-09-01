@@ -1,4 +1,4 @@
-package com.wfj.tos.parent;
+package com.wfj.tos;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ParentApplicationTests {
+public class WebApplicationTests {
 
     @Test
     public void contextLoads() {
